@@ -1,0 +1,11 @@
+pandas
+confluent-kafka
+fastapi
+uvicorn[standard]
+redis
+streamlit
+plotly
+scikit-learn
+joblib
+pydantic
+xgboost
