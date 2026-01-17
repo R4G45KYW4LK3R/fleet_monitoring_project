@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+
+# Data / models (do NOT upload large files)
+*.csv
+*.joblib
+*.pkl
+*.h5
+*.pt
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Redis dump
+dump.rdb
+
+# IDE
+.vscode/
+.idea/
